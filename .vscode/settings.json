@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": [
+        "TomasuloSimulator"
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx-swt.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.base.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.controls.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.fxml.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.graphics.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.media.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.swing.jar",
+        "/Users/amgadtahoun/Documents/javafx/lib/javafx.web.jar"
+    ]
+}
